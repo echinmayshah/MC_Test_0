@@ -172,8 +172,8 @@
 #define INFINEON	0
 #define BLDC		0
 #define ACL_BLDC 	0
-#define PMSM_14P	1
-#define PMSM_20P	0
+#define PMSM_14P	0
+#define PMSM_20P	1
 
 
 #if(MOTOR == INFINEON)
